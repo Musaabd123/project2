@@ -20,3 +20,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # project2
 # Daignosis_Analysis
 # Daignosis_Analysis
+# Daignosis_Analysis
