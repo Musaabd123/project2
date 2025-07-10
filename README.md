@@ -21,3 +21,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # Daignosis_Analysis
 # Daignosis_Analysis
 # Daignosis_Analysis
+# Daignosis_Analysis
